@@ -585,7 +585,7 @@
         <!-- Categories -->
         <section class="section container" aria-labelledby="cat-title">
             <div class="title" id="cat-title">
-                <h2 class="section-title">Shop by Categories of your choice </h2>
+                <h2 class="section-title"> *** Shop by Categories of your choice *** </h2>
                 <p class="muted">Browse through our wide range of products across curated categories.</p>
             </div>
 
